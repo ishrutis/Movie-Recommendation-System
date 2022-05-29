@@ -27,6 +27,21 @@ Cosine similarity measures the similarity between two vectors of an inner produc
 
 More about Cosine Similarity : [Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
+## Screenshots
+
+![img1](https://github.com/ishrutis/Movie-Recommendation-System/blob/datascience-projects/images/ss1.png)
+
+![img2](https://github.com/ishrutis/Movie-Recommendation-System/blob/datascience-projects/images/ss2.png)
+
+![img3](https://github.com/ishrutis/Movie-Recommendation-System/blob/datascience-projects/images/ss3.png)
+
+![img4](https://github.com/ishrutis/Movie-Recommendation-System/blob/datascience-projects/images/ss4.png)
+
+![img5](https://github.com/ishrutis/Movie-Recommendation-System/blob/datascience-projects/images/ss5.png)
+
+![img6](https://github.com/ishrutis/Movie-Recommendation-System/blob/datascience-projects/images/ss6.png)
+
+
 ### Sources of the datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
